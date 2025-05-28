@@ -2,7 +2,7 @@
 
 A straightforward notes application that allows users to create, edit, delete, and search notes.
 
-![Notes App Screenshot](https://img.icons8.com/color/96/000000/note.png)
+![Screenshot of App](https://raw.githubusercontent.com/neamagamal/Fullstack-nodejsapp/master/Screenshot%202025-05-28%20202256.png)
 
 ## Features
 
